@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/anthony-mwaura-b08b69218/">
+    <a href="https://www.linkedin.com/in/steve-tom-822a81230/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/a.n.t.o.h_ke/">
+    <a href="https://www.instagram.com/raccoon.254/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://twitter.com/Anthony11hub">
+    <a href="https://twitter.com/Raccoon254">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
 
