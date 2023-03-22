@@ -12,7 +12,7 @@
 
   </div>
   <img src="https://komarev.com/ghpvc/?username=Anthony11-hub&style=flat-square&color=blue" alt=""/>
-  <a href="https://wakatime.com/@8d976067-8545-4562-9c29-262e864a5427"><img src="https://wakatime.com/badge/user/8d976067-8545-4562-9c29-262e864a5427.svg" alt="Total time coded since Aug 1 2022" /></a>
+  <a href="https://wakatime.com/@d834c373-f400-4aa0-9eea-6efedbd07eda"><img src="https://wakatime.com/badge/user/d834c373-f400-4aa0-9eea-6efedbd07eda.svg" alt="Total time coded since Mar 22 2023" /></a><a href="https://wakatime.com/@d834c373-f400-4aa0-9eea-6efedbd07eda"><img src="https://wakatime.com/badge/user/d834c373-f400-4aa0-9eea-6efedbd07eda.svg" alt="Total time coded since Mar 22 2023" /></a>
   
   <h1>
     Hey there, I'm Steve Osoro :wave:
