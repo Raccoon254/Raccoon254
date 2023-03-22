@@ -15,7 +15,7 @@
   <a href="https://wakatime.com/@8d976067-8545-4562-9c29-262e864a5427"><img src="https://wakatime.com/badge/user/8d976067-8545-4562-9c29-262e864a5427.svg" alt="Total time coded since Aug 1 2022" /></a>
   
   <h1>
-    Hey there, I'm Anthony Mwaura :wave:
+    Hey there, I'm Steve Osoro :wave:
     <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> -->
   </h1>
 </div>
