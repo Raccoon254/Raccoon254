@@ -12,7 +12,7 @@
 
   </div>
   <img src="https://komarev.com/ghpvc/?username=Raccoon254-hub&style=flat-square&color=blue" alt=""/>
-  <a href="https://wakatime.com/@5548ec42-6074-4ca0-84ed-6317fbcfe5b7"><img src="https://wakatime.com/badge/user/5548ec42-6074-4ca0-84ed-6317fbcfe5b7.svg" alt="Total time coded since Mar 22 2023" /></a>
+  <a href="https://wakatime.com/@d834c373-f400-4aa0-9eea-6efedbd07eda"><img src="https://wakatime.com/badge/user/d834c373-f400-4aa0-9eea-6efedbd07eda.svg" alt="Total time coded since Mar 22 2023" /></a>
   
   <h1>
     Hey there, I'm Steve Osoro :wave:
@@ -80,6 +80,10 @@ When I'm not coding, I love to play pupg, watch documentaries and chat myself ou
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Raccoon254&show_icons=true" />
 </picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raccoon254)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Raccoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raccoon254)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
