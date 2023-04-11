@@ -41,7 +41,7 @@ If you have any questions about my projects, my experience, or my development ph
 You can reach me through my email at tomsteve187@gmail.com. You can also connect with me on twitter @Raccoon254.
 
 ### :zap: Fun Fact
-When I'm not coding, I love to play pupg, watch documentaries and chat myself out.
+When I'm not coding, I love to play pubg, watch documentaries and chat myself out.
 
 
 
@@ -82,9 +82,6 @@ When I'm not coding, I love to play pupg, watch documentaries and chat myself ou
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raccoon254)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Raccoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raccoon254)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 Thanks for checking out my profile! I look forward to connecting with you and collaborating on exciting software projects.
