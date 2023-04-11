@@ -46,42 +46,26 @@ When I'm not coding, I love to play pubg, watch documentaries and chat myself ou
 
 
 
-### :coffee: Languages & Libraries :
+**Languages and Tools:** 
 
-![JS](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&logoColor=8d8cdf&style=for-the-badge)
-![jQuery](https://img.shields.io/badge/jQuery-white?logo=jquery&logoColor=0078d4&style=for-the-badge)
-![Node](https://img.shields.io/badge/Node.JS-68A063?logo=node.js&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-grey?logo=firebase&logoColor=orange&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-6a73b6?logo=php&logoColor=white&style=for-the-badge)
-![Mysql](https://img.shields.io/badge/Mysql-white?logo=mysql&logoColor=blue&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-blue?logo=react&style=social)&nbsp;&nbsp;
+![Svelte](https://img.shields.io/badge/-Svelte-blue?logo=svelte&style=social)&nbsp;&nbsp;
+![php](https://img.shields.io/badge/-PHP-green?logo=php&style=social)&nbsp;&nbsp;
+![postman](https://img.shields.io/badge/-postman-green?logo=postman&style=social)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-java-white?logo=java&style=social)&nbsp;&nbsp;
+![Figma](https://img.shields.io/badge/-figma-white?logo=figma&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
+### :fire: Contributions
+  
 
-### :wrench: Tools :
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raccoon254&theme=gotham)](https://github.com/Raccoon254/github-readme-activity-graph)
 
-![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-grey?logo=git&logoColor=orange&style=for-the-badge)
-![Jetbrains](https://img.shields.io/badge/Jetbrains-white?logo=jetbrains&logoColor=black&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-FF7F50?logo=figma&logoColor=0ACF83&style=for-the-badge)
-![Xampp](https://img.shields.io/badge/Xampp-333333?logo=xampp&logoColor=0073AA&style=for-the-badge)
-![Adobe XD](https://img.shields.io/badge/Adobe-Xd-333333?logo=xd&logoColor=0073AA&style=for-the-badge)
-
-
-### :fire: My Stats :
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Raccoon254&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Raccoon254&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Raccoon254&show_icons=true" />
-</picture>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raccoon254)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Thanks for checking out my profile! I look forward to connecting with you and collaborating on exciting software projects.
