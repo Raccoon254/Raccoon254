@@ -20,6 +20,9 @@
   </h1>
 </div>
 
+[![Video Title](https://img.youtube.com/vi/wzXe67yfDOg/0.jpg)](https://www.youtube.com/watch?v=wzXe67yfDOg?autoplay=1)
+
+
 ### :man_technologist: About Me:
  I'm a scholar at Chuka University, where I'm enrolled in the
                   Applied Computer Science program in the faculty of science and
