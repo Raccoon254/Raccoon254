@@ -71,5 +71,5 @@ When I'm not coding, I love to play pubg, watch documentaries and chat myself ou
 
 
 
-Thanks for checking out my profile! I look forward to connecting with you and collaborating on exciting software projects.
+Thanks for checking out my profile💕💯
 
