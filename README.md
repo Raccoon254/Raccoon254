@@ -1,26 +1,15 @@
 <div id="header" align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/steve-tom-822a81230/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/raccoon.254/">
-      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-    <a href="https://twitter.com/Raccoon254">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-
-  </div>
+  
   <img src="https://komarev.com/ghpvc/?username=Raccoon254-hub&style=flat-square&color=blue" alt=""/>
   <a href="https://wakatime.com/@d834c373-f400-4aa0-9eea-6efedbd07eda"><img src="https://wakatime.com/badge/user/d834c373-f400-4aa0-9eea-6efedbd07eda.svg" alt="Total time coded since Mar 22 2023" /></a>
   
   <h1>
     Hey there, I'm Steve Osoro :wave:
-    <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> -->
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> 
   </h1>
 </div>
 
-<h2 align="left">Hi 👋! My name is Steve But call me Ken and I'm an imposter from a Young Age</h2>
+<h2 align="center">I'm an imposter from a Young Age</h2>
 
 ###
 
