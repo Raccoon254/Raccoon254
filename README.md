@@ -92,7 +92,8 @@
     <img src="https://img.youtube.com/vi/wzXe67yfDOg/0.jpg" alt="Video Title" style="width: 48%;">
   </a>
   
-  <div>
+  <div style="width=50%">
+   .
     ### :man_technologist: About Me:
  I'm a scholar at Chuka University, where I'm enrolled in the
                   Applied Computer Science program in the faculty of science and
@@ -104,6 +105,7 @@
 ### :telescope: What I'm working on
 Currently, I'm working on many projects including energy management systems and upscalling my skills as a software developer and designer.
   </div>
+  
 </div>
 
 ### :seedling: What I'm learning 
