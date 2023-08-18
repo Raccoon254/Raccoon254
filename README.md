@@ -91,9 +91,8 @@
   <a href="https://www.youtube.com/watch?v=wzXe67yfDOg?autoplay=1">
     <img src="https://img.youtube.com/vi/wzXe67yfDOg/0.jpg" alt="Video Title" style="width: 48%;">
   </a>
-
-  
 </div>
+
 ### :man_technologist: About Me:
  I'm a scholar at Chuka University, where I'm enrolled in the
                   Applied Computer Science program in the faculty of science and
@@ -102,27 +101,26 @@
                   computer engineering, and I'm currently working on networking,
                   Python, PHP, Java Script, and Kotlin from Android Studio.
 
-### :telescope: What I'm working on
+### :telescope: What I'm working on:
 Currently, I'm working on many projects including energy management systems and upscalling my skills as a software developer and designer.
 
-### :seedling: What I'm learning 
+### :seedling: What I'm learning:
 As a software developer, I believe in continuous learning and improvement. Currently, I'm learning about programming roots and new trends in the market.
 
-### :speech_balloon: Ask me about
+### :speech_balloon: Ask me about:
 If you have any questions about my projects, my experience, or my development philosophy, feel free to ask me! I'm always happy to chat about software development and technology in general.
 
-### :mailbox_with_no_mail: How to reach me
+### :mailbox_with_no_mail: How to reach me:
 You can reach me through my email at tomsteve187@gmail.com. You can also connect with me on twitter @Raccoon254.
 
-### :zap: Fun Fact
+### :zap: Fun Fact:
 When I'm not coding, I love to play pubg, watch documentaries and chat myself out.
 
 
-### :fire: Contributions
+### :fire: Contributions:
   
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raccoon254&theme=gotham)](https://github.com/Raccoon254/github-readme-activity-graph)
-
 
 
 Thanks for checking out my profile 💯
