@@ -87,12 +87,12 @@
 
 ###
 
-<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="display: flex; flex-direction: row; justify-items: center;">
   <a href="https://www.youtube.com/watch?v=wzXe67yfDOg?autoplay=1">
-    <img src="https://img.youtube.com/vi/wzXe67yfDOg/0.jpg" alt="Video Title" style="width: 45%;">
+    <img src="https://img.youtube.com/vi/wzXe67yfDOg/0.jpg" alt="Video Title" style="width: 48%;">
   </a>
   
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rqqgaeqamivvlgvvldtsxajxjq" alt="Alt text" style="width: 45%;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rqqgaeqamivvlgvvldtsxajxjq" alt="Alt text" style="width: 48%;">
 </div>
 
 
