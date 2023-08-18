@@ -4,7 +4,7 @@
   <a href="https://wakatime.com/@d834c373-f400-4aa0-9eea-6efedbd07eda"><img src="https://wakatime.com/badge/user/d834c373-f400-4aa0-9eea-6efedbd07eda.svg" alt="Total time coded since Mar 22 2023" /></a>
   
   <h1>
-    Hey there, I'm Steve Osoro :wave:
+    Hey there, I'm Steve Osoro
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> 
   </h1>
 </div>
@@ -87,9 +87,14 @@
 
 ###
 
-[![Video Title](https://img.youtube.com/vi/wzXe67yfDOg/0.jpg)](https://www.youtube.com/watch?v=wzXe67yfDOg?autoplay=1)
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <a href="https://www.youtube.com/watch?v=wzXe67yfDOg?autoplay=1">
+    <img src="https://img.youtube.com/vi/wzXe67yfDOg/0.jpg" alt="Video Title" style="width: 50%;">
+  </a>
+  
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rqqgaeqamivvlgvvldtsxajxjq" alt="Alt text" style="width: 100%;">
+</div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rqqgaeqamivvlgvvldtsxajxjq)
 
 ### :man_technologist: About Me:
  I'm a scholar at Chuka University, where I'm enrolled in the
@@ -115,23 +120,6 @@ You can reach me through my email at tomsteve187@gmail.com. You can also connect
 When I'm not coding, I love to play pubg, watch documentaries and chat myself out.
 
 
-
-
-**Languages and Tools:** 
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-React-blue?logo=react&style=social)&nbsp;&nbsp;
-![Svelte](https://img.shields.io/badge/-Svelte-blue?logo=svelte&style=social)&nbsp;&nbsp;
-![php](https://img.shields.io/badge/-PHP-green?logo=php&style=social)&nbsp;&nbsp;
-![postman](https://img.shields.io/badge/-postman-green?logo=postman&style=social)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/-java-white?logo=java&style=social)&nbsp;&nbsp;
-![Figma](https://img.shields.io/badge/-figma-white?logo=figma&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-
 ### :fire: Contributions
   
 
@@ -139,5 +127,5 @@ When I'm not coding, I love to play pubg, watch documentaries and chat myself ou
 
 
 
-Thanks for checking out my profile💕💯
+Thanks for checking out my profile 💯
 
