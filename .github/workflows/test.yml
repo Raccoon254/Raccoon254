@@ -26,5 +26,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          force_push: true
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
