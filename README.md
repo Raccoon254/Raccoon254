@@ -35,8 +35,6 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rqqgaeqamivvlgvvldtsxajxjq)
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -102,6 +100,7 @@
 
 [![Video Title](https://img.youtube.com/vi/wzXe67yfDOg/0.jpg)](https://www.youtube.com/watch?v=wzXe67yfDOg?autoplay=1)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rqqgaeqamivvlgvvldtsxajxjq)
 
 ### :man_technologist: About Me:
  I'm a scholar at Chuka University, where I'm enrolled in the
