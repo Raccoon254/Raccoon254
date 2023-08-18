@@ -91,10 +91,10 @@
   <a href="https://www.youtube.com/watch?v=wzXe67yfDOg?autoplay=1">
     <img src="https://img.youtube.com/vi/wzXe67yfDOg/0.jpg" alt="Video Title" style="width: 48%;">
   </a>
+
   
-  <div style="width=50%">
-   .
-    ### :man_technologist: About Me:
+</div>
+### :man_technologist: About Me:
  I'm a scholar at Chuka University, where I'm enrolled in the
                   Applied Computer Science program in the faculty of science and
                   technology. My core abilities are based on YouTube and online
@@ -104,9 +104,6 @@
 
 ### :telescope: What I'm working on
 Currently, I'm working on many projects including energy management systems and upscalling my skills as a software developer and designer.
-  </div>
-  
-</div>
 
 ### :seedling: What I'm learning 
 As a software developer, I believe in continuous learning and improvement. Currently, I'm learning about programming roots and new trends in the market.
