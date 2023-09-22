@@ -117,11 +117,5 @@ You can reach me through my email at tomsteve187@gmail.com. You can also connect
 When I'm not coding, I love to play pubg, watch documentaries and chat myself out.
 
 
-### :fire: Contributions:
-  
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raccoon254&theme=gotham)](https://github.com/Raccoon254/github-readme-activity-graph)
-
-
 Thanks for checking out my profile 💯
 
