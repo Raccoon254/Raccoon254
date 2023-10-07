@@ -1,7 +1,8 @@
 <div id="header" align="center">
   
   <img src="https://komarev.com/ghpvc/?username=Raccoon254-hub&style=flat-square&color=blue" alt=""/>
-  <a href="https://wakatime.com/@d834c373-f400-4aa0-9eea-6efedbd07eda"><img src="https://wakatime.com/badge/user/d834c373-f400-4aa0-9eea-6efedbd07eda.svg" alt="Total time coded since Mar 22 2023" /></a>
+  <a href="https://wakatime.com/@d834c373-f400-4aa0-9eea-6efedbd07eda"><img src="https://wakatime.com/badge/user/d834c373-f400-4aa0-9eea-6efedbd07eda.svg" alt="Total time coded since Mar 22 2023" />
+  </a>
   
   <h1>
     Hey there, I'm Steve Osoro
@@ -10,13 +11,6 @@
 </div>
 
 <h2 align="center">I'm an imposter from a Young Age</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raccoon254&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raccoon254&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -81,12 +75,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Raccoon254/Raccoon254/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div style="display: flex; flex-direction: row; justify-items: center;">
   <a href="https://www.youtube.com/watch?v=wzXe67yfDOg?autoplay=1">
     <img src="https://img.youtube.com/vi/wzXe67yfDOg/0.jpg" alt="Video Title" style="width: 48%;">
@@ -95,7 +83,6 @@
 
 ### :man_technologist: About Me:
  I'm a scholar at Chuka University, where I'm enrolled in the
-                  Applied Computer Science program in the faculty of science and
                   technology. My core abilities are based on YouTube and online
                   courses. I've acquired considerable expertise in the field of
                   computer engineering, and I'm currently working on networking,
