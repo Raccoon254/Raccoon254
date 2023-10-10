@@ -85,27 +85,5 @@
                   computer engineering, and I'm currently working on networking,
                   Python, PHP, Java Script, and Kotlin from Android Studio.
 
-### :telescope: What I'm working on:
-Currently, I'm working on many projects including energy management systems and upscalling my skills as a software developer and designer.
-
-### :seedling: What I'm learning:
-As a software developer, I believe in continuous learning and improvement. Currently, I'm learning about programming roots and new trends in the market.
-
-### :speech_balloon: Ask me about:
-If you have any questions about my projects, my experience, or my development philosophy, feel free to ask me! I'm always happy to chat about software development and technology in general.
-
-### :mailbox_with_no_mail: How to reach me:
-You can reach me through my email at tomsteve187@gmail.com. You can also connect with me on twitter @Raccoon254.
-
-### :zap: Fun Fact:
-When I'm not coding, I love to play pubg, watch documentaries and chat myself out.
-
-
-
-### :fire: Contributions:
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raccoon254&theme=gotham)](https://github.com/Raccoon254/github-readme-activity-graph)
-
 Thanks for checking out my profile 💯
 
