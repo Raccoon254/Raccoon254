@@ -78,12 +78,3 @@
   </a>
 </div>
 
-### :man_technologist: About Me:
- I'm a scholar at Chuka University, where I'm enrolled in the
-                  technology. My core abilities are based on YouTube and online
-                  courses. I've acquired considerable expertise in the field of
-                  computer engineering, and I'm currently working on networking,
-                  Python, PHP, Java Script, and Kotlin from Android Studio.
-
-Thanks for checking out my profile 💯
-
