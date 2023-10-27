@@ -4,7 +4,7 @@
   <a href="https://wakatime.com/@d834c373-f400-4aa0-9eea-6efedbd07eda"><img src="https://wakatime.com/badge/user/d834c373-f400-4aa0-9eea-6efedbd07eda.svg" alt="Total time coded since Mar 22 2023" />
   </a>
   
-  <h1>I'm Steve Osoro
+  <h1>I'm Steve Tom
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> 
   </h1>
 </div>
