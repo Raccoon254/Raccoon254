@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steve Tom</h1>
 <h3 align="center">A passionate dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raccoon254&label=Profile%20views&color=0e75b6&style=flat" alt="raccoon254" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raccoon254" alt="raccoon254" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/raccoon254" target="blank"><img src="https://img.shields.io/twitter/follow/raccoon254?logo=twitter&style=for-the-badge" alt="raccoon254" /></a> </p>
 
 - 🔭 I’m currently working on [InternLink](http://intern.co.ke/)
