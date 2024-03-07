@@ -29,7 +29,7 @@ I am currently engaged in several exciting projects, each with its own unique fo
     </div>
 
 - **Cline**: This project is aimed at revolutionizing how freelancers manage their clients and projects. Cline is a client management tool designed to streamline operations, improve efficiency, and enhance communication. By offering a comprehensive suite of features, freelancers can effortlessly keep track of projects, deadlines, and client interactions in one centralized location, allowing them to focus more on what they do best—creating outstanding work.
-- 
+
 <html>
   <body>
     <div style="display: flex;">
