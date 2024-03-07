@@ -20,8 +20,8 @@ I am currently engaged in several exciting projects, each with its own unique fo
 <html>
   <body>
     <div style="display: flex;">
-        <img width="50%" src="https://github.com/Raccoon254/Raccoon254/assets/108453222/7fd2a4be-4d98-4b3b-8d9d-97e5ff8ae425" alt="Cline Project Image 2" style="border-radius: 8px;">
-  <img width="50%" src="https://github.com/Raccoon254/Raccoon254/assets/108453222/251a7104-5d35-4f60-98da-65f7812967cd" alt="Cline Project Image 1" style="border-radius: 8px; margin-right: 10px;">
+        <img width="50%" src="Screenshot 2024-03-07 110925.png" alt="Cline Project Image 2" style="border-radius: 8px;">
+  <img width="50%" src="image.png" alt="Cline Project Image 1" style="border-radius: 8px; margin-right: 10px;">
 </div>
 
   </body>
