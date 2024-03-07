@@ -20,9 +20,9 @@ I am currently engaged in several exciting projects, each with its own unique fo
 <html>
   <body>
     <div style="display: flex;">
-        <img width="50%" src="Screenshot 2024-03-07 110925.png" alt="Cline Project Image 2" style="border-radius: 8px;">
-  <img width="50%" src="image.png" alt="Cline Project Image 1" style="border-radius: 8px; margin-right: 10px;">
-</div>
+      <img src="Screenshot 2024-03-07 110925.png" alt="Cline Project Image 2" width="49%" style="border-radius: 8px;">
+      <img src="image.png" alt="Cline Project Image 1" width="49%" style="border-radius: 8px; margin-left: 2%;">
+    </div>
 
   </body>
 </html>
