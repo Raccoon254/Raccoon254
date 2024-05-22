@@ -1,4 +1,4 @@
-<center>
+![image](https://github.com/Raccoon254/Raccoon254/assets/108453222/74c63310-8964-4b5b-9166-2590bfc7b183)<center>
   <h1>
     I am Steve Tom
   </h1>
@@ -28,22 +28,22 @@ I am currently engaged in several exciting projects, each with its own unique fo
 ### **Scholarspace io**
 Scholarspace is a web application designed to facilitate assignment help services. Built with Laravel, it offers a platform for clients to place orders and for writers to manage and fulfill these orders. The application includes features for real-time chat, payment processing, notifications, FAQs, and terms and conditions management.
 
-![Scholarspace](https://github.com/Raccoon254/Raccoon254/assets/108453222/86981132-4c3a-4c42-9967-a82a867f13ae)
+![Scholarspace](https://github.com/Raccoon254/Raccoon254/assets/108453222/f621c227-161b-47d4-9caf-ed4b846f9f9d)
 
 ### **Project InternLink**
 A groundbreaking platform designed to revolutionize how students secure internships and attachments. InternLink simplifies the entire application process, offering a seamless bridge between students and their future careers. By providing an easy-to-navigate portal, students can discover and apply to numerous opportunities with ease, while employers gain access to a pool of talented individuals ready to bring fresh ideas to their organizations. Learn more about how we're transforming the internship landscape at [InternLink](https://intern.co.ke/).
 
-![image](https://github.com/Raccoon254/Raccoon254/assets/108453222/de256f62-e719-4c04-b021-c597b8f95154)
+![image](https://github.com/Raccoon254/Raccoon254/assets/108453222/e8cde5f1-364e-41ec-8401-83e525e550bd)
 
  ### **FutureSpace**
 At the forefront of digital innovation, FutureSpace is dedicated to devising digital solutions that address today's challenges. Our expertise spans digital innovation, where we leverage the latest technologies and creative strategies to solve problems; automation and efficiency, enhancing productivity with advanced tools; cybersecurity consultancy, safeguarding digital assets against emerging threats; digital marketing strategies, crafting custom plans to elevate online presence; and web development & analytics, creating dynamic websites with integrated analytics for smarter decisions. Our software development division is committed to building robust solutions tailored to specific business goals. Dive deeper into our innovative world at [FutureSpace](https://futurespace.co.ke/).
 
-![image](https://github.com/Raccoon254/Raccoon254/assets/108453222/9f02586e-efb7-4399-8227-e02d9530f036)
+![image](https://github.com/Raccoon254/Raccoon254/assets/108453222/5cf7dd64-5b52-4753-b036-02bef4e6dbf6)
 
 ### **Cline** 
 This project is aimed at revolutionizing how freelancers manage their clients and projects. Cline is a client management tool designed to streamline operations, improve efficiency, and enhance communication. By offering a comprehensive suite of features, freelancers can effortlessly keep track of projects, deadlines, and client interactions in one centralized location, allowing them to focus more on what they do best—creating outstanding work.
 
-![image](https://github.com/Raccoon254/Raccoon254/assets/108453222/94f9898f-cc21-47b0-a48a-5fdda4f6ebf2)
+![Scholarspace · 12 24am · 05-23](https://github.com/Raccoon254/Raccoon254/assets/108453222/99c1173e-e653-4674-891b-27260808d2b1)
 
 <html>
   <body>
