@@ -1,4 +1,3 @@
-![image](https://github.com/Raccoon254/Raccoon254/assets/108453222/74c63310-8964-4b5b-9166-2590bfc7b183)<center>
   <h1>
     I am Steve Tom
   </h1>
