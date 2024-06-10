@@ -27,7 +27,7 @@ Bellow are some of my day to day tools
 I am currently engaged in several exciting projects, each with its own unique focus and contribution to the digital landscape:
 
 ### **Scholarspace io**
-Scholarspace is a web application designed to facilitate assignment help services. Built with Laravel, it offers a platform for clients to place orders and for writers to manage and fulfill these orders. The application includes features for real-time chat, payment processing, notifications, FAQs, and terms and conditions management.
+Scholarspace is a web application designed to facilitate assignment help services. Built with Laravel, it offers a platform for clients to place orders and for writers to manage and fulfill these orders. The application includes features for real-time chat, payment processing, notifications, FAQs, and terms and conditions management. [ScholarSpace](https://scholarspace.me/).
 
 ![Scholarspace](https://github.com/Raccoon254/Raccoon254/assets/108453222/f621c227-161b-47d4-9caf-ed4b846f9f9d)
 
@@ -37,7 +37,7 @@ A groundbreaking platform designed to revolutionize how students secure internsh
 ![image](https://github.com/Raccoon254/Raccoon254/assets/108453222/e8cde5f1-364e-41ec-8401-83e525e550bd)
 
  ### **FutureSpace**
-At the forefront of digital innovation, FutureSpace is dedicated to devising digital solutions that address today's challenges. Our expertise spans digital innovation, where we leverage the latest technologies and creative strategies to solve problems; automation and efficiency, enhancing productivity with advanced tools; cybersecurity consultancy, safeguarding digital assets against emerging threats; digital marketing strategies, crafting custom plans to elevate online presence; and web development & analytics, creating dynamic websites with integrated analytics for smarter decisions. Our software development division is committed to building robust solutions tailored to specific business goals. Dive deeper into our innovative world at [FutureSpace](https://futurespace.co.ke/).
+At the forefront of digital innovation, FutureSpace is dedicated to devising digital solutions that address today's challenges. Our expertise spans digital innovation, where we leverage the latest technologies and creative strategies to solve problems; automation and efficiency, enhancing productivity with advanced tools; cybersecurity consultancy, safeguarding digital assets against emerging threats; digital marketing strategies, crafting custom plans to elevate online presence; and web development & analytics, creating dynamic websites with integrated analytics for smarter decisions. Our software development division is committed to building robust solutions tailored to specific business goals. Dive deeper into our innovative world at [FutureSpace](https://futurespace.vercel.app/).
 
 ![image](https://github.com/Raccoon254/Raccoon254/assets/108453222/5cf7dd64-5b52-4753-b036-02bef4e6dbf6)
 
