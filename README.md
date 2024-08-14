@@ -27,6 +27,13 @@ Bellow are some of my day to day tools
 ## Projects
 I am currently engaged in several exciting projects, each with its own unique focus and contribution to the digital landscape:
 
+### **Jestorm**
+This is a nextjs application to manage clients and programming projects. This project is still on progress and is set to be complete by November 2024. It includes features like real time messaging and notifications via Socket IO, Paypal payment processing, and very many other pages
+Please check it out here
+[Jestorm 🚀](https://jestorm.vercel.app/).
+![image](https://github.com/user-attachments/assets/a76e8a3e-52cd-4ea6-a628-db7bf44ebd1c)
+
+
 ### **Scholarspace io**
 Scholarspace is a web application designed to facilitate assignment help services. Built with Laravel, it offers a platform for clients to place orders and for writers to manage and fulfill these orders. The application includes features for real-time chat, payment processing, notifications, FAQs, and terms and conditions management. [ScholarSpace](https://scholarspace.me/).
 
