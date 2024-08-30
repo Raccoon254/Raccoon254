@@ -30,6 +30,12 @@ Bellow are some of my day to day tools
 ## Projects
 I am currently engaged in several exciting projects, each with its own unique focus and contribution to the digital landscape:
 
+### **Whatsapp Status Saver**
+An android studio project made with kotlin, This application is meant to save pictures and status viewed from any whatsapp type and can even manage all staved status files
+[Status Saver Docs](https://status-saver.vercel.app/).
+
+![Whatsapp Status saver · 9 37am · 08-30](https://github.com/user-attachments/assets/8da01d7b-2bbf-4fca-a5b8-99a48d8257d9)
+
 ### **Jestorm**
 This is a nextjs application to manage clients and programming projects. This project is still on progress and is set to be complete by November 2024. It includes features like real time messaging and notifications via Socket IO, Paypal payment processing, and very many other pages
 Please check it out here
