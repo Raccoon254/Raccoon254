@@ -3,8 +3,6 @@
   </h1>
 </center>
 
-Alias Raccoon254
-
 
 <center>
   <pre>
