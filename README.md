@@ -18,7 +18,7 @@
 I'm a passionate software developer dedicated to crafting efficient and scalable web applications. My journey in tech is driven by a ceaseless curiosity and a desire to tackle real-world challenges through innovative technology. I thrive on exploring cutting-edge technologies and deploying them to solve complex problems, delivering solutions that make a tangible difference.
 
 ## Stack
-Bellow are some of my day to day tools
+Bellow are some of my day to day tools.
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,mysql,java,c,php,flutter,tailwind,react,next,nodejs,git,github,stackoverflow" />
