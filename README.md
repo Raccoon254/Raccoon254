@@ -15,7 +15,7 @@
 </center>
 
 ## About Me
-I'm a passionate software developer dedicated to crafting efficient and scalable web applications. My journey in tech is driven by a ceaseless curiosity and a desire to tackle real-world challenges through innovative technology. I thrive on exploring cutting-edge technologies and deploying them to solve complex problems, delivering solutions that make a tangible difference.
+I'm a passionate software developer dedicated to coding efficient and scalable web applications. My journey in tech is driven by a ceaseless curiosity and a desire to tackle real-world challenges through innovative technology. I thrive on exploring cutting-edge technologies and deploying them to solve complex problems, delivering solutions that make a tangible difference.
 
 ## Stack
 Bellow are some of the tools I use to create software.
