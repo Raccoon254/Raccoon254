@@ -73,7 +73,7 @@ This project is aimed at revolutionizing how freelancers manage their clients an
 </html>
 
 ## Skills
-- **Languages**: Proficient in Java, JavaScript, HTML, CSS, and Php, enabling me to tackle a wide range of programming challenges and build diverse web applications.
+- **Languages**: Proficient in Java, JavaScript, HTML, CSS, Php and their frameworks, enabling me to tackle a wide range of programming challenges and build diverse web applications.
 - **Frameworks**: I have extensive experience with React and Laravel, among other frameworks, which allows me to develop robust, scalable, and efficient applications.
 - **Tools**: My toolkit includes Git for version control, JetBrains for integrated development environments, and Copilot for AI-assisted coding, which collectively enhance my productivity and code quality.
 
