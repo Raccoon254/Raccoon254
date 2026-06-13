@@ -18,11 +18,10 @@
 I'm a passionate software developer dedicated to coding efficient and scalable web applications. My journey in tech is driven by a ceaseless curiosity and a desire to tackle real-world challenges through innovative technology. I thrive on exploring cutting-edge technologies and deploying them to solve complex problems, delivering solutions that make a tangible difference.
 
 ## Stack
-Below are the tools I build with. At Axene Solutions we ship full-stack: Python and FastAPI on the backend, SvelteKit and TypeScript on the frontend, Postgres and Redis for data, all containerised with Docker behind Nginx.
-
+Bellow are some of the tools I use for development.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,svelte,ts,js,tailwind,vite,postgres,redis,docker,nginx,dotnet,java,go,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,java,c,php,flutter,tailwind,react,next,nodejs,git,github,stackoverflow" />
   </a>
 </p>
 
