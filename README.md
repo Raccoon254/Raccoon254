@@ -1,5 +1,4 @@
   <h1>
-  Hi there
   My official name is Steve Tom 
   </h1>
 </center>
